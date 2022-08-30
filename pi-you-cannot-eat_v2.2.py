@@ -236,4 +236,4 @@ while True:
     button.when_pressed = sendData;
 #     RED = 0x100000 # (0x10, 0, 0)
 #     GREEN = 0x001000
-#     BLUE = 0x000010
+#     BLUE = 0x000010;
